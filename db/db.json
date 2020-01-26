@@ -1,1 +1,18 @@
-[{"title":"Test Title","text":"Test text"}]
+[
+    {
+        "title": "Fancystacks GitHub",
+        "text": "ORganizational notes"
+    },
+    {
+        "title": "Update MySQL Database",
+        "text": "Create and update data tables"
+    },
+    {
+        "title": "Node Express Ports",
+        "text": "Listen to local host ports"
+    },
+    {
+        "title": "Add Inquirer Functions",
+        "text": "Use axios calls to get data"
+    }
+]
