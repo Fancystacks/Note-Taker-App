@@ -1,3 +1,5 @@
+const path = require("path");
+const fs = require("fs");
 var newNote = require("../db/db.json");
 const uuidv4 = require("uuid/v4");
 
