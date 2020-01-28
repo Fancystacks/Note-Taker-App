@@ -14,5 +14,10 @@
     {
         "title": "Add Inquirer Functions",
         "text": "Use axios calls to get data"
+    },
+    {
+        "title": "Add Event Listeners",
+        "text": "Next task",
+        "id": "d1a4b539-e6aa-45dc-90e9-802c372a6616"
     }
 ]
