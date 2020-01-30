@@ -20,4 +20,6 @@
 
 <img src="https://user-images.githubusercontent.com/38336934/73193085-435cce00-40e7-11ea-8dc9-33eef2aae712.png" width="540" height="300">
 
-#### This site was created and deployed on [GitHub Pages](https://github.com/Fancystacks/Note-Taker-App/).
+### New note will be sent to .json file with its own unique ID
+
+#### This site was created and deployed on [Heroku](https://github.com/Fancystacks/Note-Taker-App/).
