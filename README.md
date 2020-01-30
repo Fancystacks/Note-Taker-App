@@ -17,9 +17,9 @@
 <img src="https://user-images.githubusercontent.com/38336934/73129861-34bccc80-3faa-11ea-8a2e-dd49ae41d5f3.png" width="540" height="300">
 
 ## Add a note through the app:
+#### New note will be sent to .json file with its own unique ID
 
 <img src="https://user-images.githubusercontent.com/38336934/73193085-435cce00-40e7-11ea-8dc9-33eef2aae712.png" width="540" height="300">
 
-### New note will be sent to .json file with its own unique ID
 
-#### This site was created and deployed on [Heroku](https://github.com/Fancystacks/Note-Taker-App/).
+#### This site was created and deployed on [Heroku] (https://fast-savannah-44868.herokuapp.com/).
